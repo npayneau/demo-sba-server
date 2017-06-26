@@ -23,3 +23,7 @@ java -jar core/target/core.jar
 ```
 
 Utiliser l'URL suivante pour accèder à votre console d'administration
+
+```
+http://localhost:8080/
+```
